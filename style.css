@@ -1,0 +1,9 @@
+h1{color: red; text-align: center; font-size: 40px;}
+p{color: brown;}
+img {
+    width: 350px; /* Cambia el ancho de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    display: block; /* Hace que la imagen sea un elemento de bloque */
+    margin: 0 auto; /* Centra la imagen horizontalmente */
+}
+body{background-color: rgb(240, 213, 13); color: blue;}
